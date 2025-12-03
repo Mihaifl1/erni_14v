@@ -1,1 +1,1 @@
-# erni_14v
+nano /home/pi/.config/autostart/chromium-fullscreen.desktop
